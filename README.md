@@ -5,12 +5,12 @@ languages:
 products:
 - azure
 description: "This sample demonstrates a tiny Hello World PHP app for App Service."
-urlFragment: php-docs-hello-world
+urlFragment: php-hw
 ---
 
-# PHP Hello World
+# PHP HW
 
-This sample demonstrates a tiny Hello World PHP app for [App Service](https://docs.microsoft.com/azure/app-service).
+Este é um exemplo simples de repositório PHP para Azure [App Service](https://docs.microsoft.com/azure/app-service).
 
 ## Contributing
 
