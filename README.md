@@ -4,7 +4,7 @@ languages:
 - php
 products:
 - azure
-description: "This sample demonstrates a tiny PHP app for App Service."
+description: "This sample demonstrates a tiny PHP app for Azure App Service."
 urlFragment: php-hw
 ---
 
